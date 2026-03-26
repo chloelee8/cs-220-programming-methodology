@@ -1,0 +1,12 @@
+---
+:id: 386448507
+:submitters:
+- :name: Chloe Lee
+  :email: yunseolee@umass.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2026-02-06 02:17:10.565128000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2026-02-05 18:17:10.565128000 Z
+:status: processed
+:score: 101.9
